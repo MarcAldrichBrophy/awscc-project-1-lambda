@@ -6,8 +6,6 @@ logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 
 getMethod = "GET"
-postMethod = "POST"
-
 healthPath = "/health"
 
 #main handler
